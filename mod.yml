@@ -1,0 +1,12 @@
+title: Shooting Star (V1)
+originalAuthor: Zurph
+description: Replaces Star Seeker with Shooting Star from KH3.
+assets:
+- name: obj\W_EX010_30.mdlx
+  method: copy
+  source:
+  - name: obj\W_EX010_30.mdlx
+- name: itempic\item-046.imd
+  method: copy
+  source:
+  - name: itempic\item-046.imd
